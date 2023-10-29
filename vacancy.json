@@ -1,8 +1,122 @@
 [
   {
-    "Ссылка": "https://spb.hh.ru/vacancy/88047880?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Ссылка": "https://spb.hh.ru/vacancy/87592497?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "не указана",
+    "Компания": "ООО РА Дельта",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/88524866?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
     "Зарплата": "от 120 000 ₽",
-    "Компания": "Stroki",
-    "Город": "Пермь"
+    "Компания": "Фрифлекс",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/88654195?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "не указана",
+    "Компания": "АНО ЦИСМ",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/88593532?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "не указана",
+    "Компания": "Компания Самолет",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/87131742?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "до 3 000 $",
+    "Компания": "CLS Global",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/72687504?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "150 000 – 200 000 ₽",
+    "Компания": "ООО Селфсек",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/85833142?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "110 000 – 180 000 ₽",
+    "Компания": "Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/87735917?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "не указана",
+    "Компания": "ООО Платформа Третье Мнение",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/88654196?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "не указана",
+    "Компания": "Леруа Мерлен. Центральный офис",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/86071635?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "не указана",
+    "Компания": "АО Национальная система платежных карт",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/87859874?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "100 000 – 150 000 ₽",
+    "Компания": "Botseller AI",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/86085894?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "до 420 000 ₽",
+    "Компания": "Точка",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/88099262?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "от 150 000 ₽",
+    "Компания": "ИП Антонов Петр Анатольевич",
+    "Город": "Санкт-Петербург"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/88705175?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "не указана",
+    "Компания": "Bell Integrator",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/88528970?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "100 000 – 150 000 ₽",
+    "Компания": "Университет искусственного интеллекта",
+    "Город": "Санкт-Петербург"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/88528864?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "100 000 – 150 000 ₽",
+    "Компания": "Университет искусственного интеллекта",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/86839537?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "не указана",
+    "Компания": "«РОСБАНК»",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/88048388?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "от 120 000 ₽",
+    "Компания": "ООО СмартБрик",
+    "Город": "Москва"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/84852772?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "не указана",
+    "Компания": "ЕДИНЫЙ ЦУПИС",
+    "Город": "Санкт-Петербург"
+  },
+  {
+    "Ссылка": "https://spb.hh.ru/vacancy/87915097?from=vacancy_search_list&hhtmFrom=vacancy_search_list&query=python+django+flask",
+    "Зарплата": "150 000 – 300 000 ₽",
+    "Компания": "Carbon Soft",
+    "Город": "Москва"
   }
 ]

@@ -17,7 +17,8 @@ def get_vacancy(*args):
     args_str = ' '.join(list(args))
     params = {
         'area': [1, 2],
-        'text': args_str
+        'text': args_str,
+        'items_on_page': '100'
     }
     response = requests.get('https://spb.hh.ru/search/vacancy',
                             headers=headers_gen.generate(), params=params)
@@ -36,7 +37,7 @@ def get_vacancy(*args):
         link = link_teg['href']
         salary_ = checking_teg(salary_teg).replace('\u202f', ' ')
         company = checking_teg(company_teg).replace('\xa0', ' ')
-        city = checking_teg(city_teg[1])
+        city = checking_teg(city_teg[1]).split(',')[0]
 
         vacancy_dict = {'Ссылка': link,
                         'Зарплата': salary_,
